@@ -1,1 +1,1 @@
-[brands-swiper](https://noxizt.github.io/CPS-brands-swiper/)
+[brands-swiper section of CPS](https://noxizt.github.io/CPS-brands-swiper/)
